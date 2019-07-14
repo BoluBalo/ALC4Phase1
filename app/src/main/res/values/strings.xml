@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ALC 4 Phase1</string>
+    <string name="about_alc">ABOUT ALC</string>
+    <string name="welcome_to_alc_4_0">WELCOME TO ALC 4.0</string>
+    <string name="my_profile">MY PROFILE</string>
+    <string name="activity2">Activity2</string>
+    <string name="profile_page">PROFILE PAGE</string>
+    <string name="todo">TODO</string>
+    <string name="slack_username_dr_bolu_balogun">SLACK USERNAME: DR BOLU BALOGUN</string>
+    <string name="phone_number_2349082520591">PHONE NUMBER: 2349082520591</string>
+    <string name="email_bboluwatito_yahoo_com">EMAIL: BBOLUWATITO@YAHOO.COM</string>
+    <string name="track_android">TRACK: ANDROID</string>
+    <string name="country_nigeria">COUNTRY: NIGERIA</string>
+    <string name="balogun_boluwatito">BALOGUN BOLUWATITO</string>
+
+</resources>
